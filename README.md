@@ -36,6 +36,7 @@ Jupyter Notebook - Environnement d'analyse
 ### 📁 Structure du Projet
 text
 movie-studio-analysis/
+
 │
 ├── movie_analysis.db              # Base de données SQLite (générée automatiquement)
 ├── tn.movie_budgets.csv          # Données sources (à fournir)
