@@ -38,9 +38,13 @@ text
 movie-studio-analysis/
 
 │
+
 ├── movie_analysis.db              # Base de données SQLite (générée automatiquement)
+
 ├── tn.movie_budgets.csv          # Données sources (à fournir)
+
 ├── movie_analysis.ipynb          # Notebook d'analyse principal
+
 └── README.md                     # Documentation du projet
 #### 🚀 Installation et Exécution
 Prérequis
@@ -93,7 +97,7 @@ Gros Budget : 50-100 millions $
 
 Blockbuster : > 100 millions $
 
-### 💡 Résultats Clés
+## 💡 Résultats Clés
 Stratégie Optimale Identifiée
 Métrique	Valeur Recommandée
 Catégorie de budget	Budget Moyen ($20-50M)
@@ -169,7 +173,7 @@ Relation budget-profit - Scatter plot
 
 Distribution des ROI - Histogramme
 
-## 🔮 Perspectives Futures
+# 🔮 Perspectives Futures
 Améliorations Possibles
 Intégration de données de genres cinématographiques
 
@@ -211,7 +215,7 @@ Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 Direction Studio - Définition des besoins stratégiques
 
-📞 Support
+## 📞 Support
 Pour toute question ou problème :
 
 Ouvrir une issue sur le repository
